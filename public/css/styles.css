@@ -267,7 +267,7 @@ pre code {
   color: #074f66;
   font-size: 18px;
 }
-/* ======= Features Section ======= */
+/* ======= Interest Section ======= */
 .interests {
   padding: 80px 0;
   background: #17baef;
@@ -332,17 +332,17 @@ pre code {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
 }
-/* ======= License Section ======= */
-.license {
+/* ======= Credits Section ======= */
+.credits {
   padding: 80px 0;
   background: #f5f5f5;
 }
-.license .title {
+.credits .title {
   margin-top: 0;
   margin-bottom: 60px;
   color: #074f66;
 }
-.license .license-inner {
+.credits .license-inner {
   max-width: 800px;
   background: #fff;
   padding: 30px;
@@ -373,7 +373,7 @@ pre code {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
 }
-.license .cta-container .speech-bubble {
+.credits .cta-container .speech-bubble {
   background: #d6f3fc;
   color: #074f66;
   padding: 30px;
@@ -401,13 +401,13 @@ pre code {
   border-right: 10px solid transparent;
   border-top: 10px solid #d6f3fc;
 }
-.license .cta-container .icon-holder {
+.credits .cta-container .icon-holder {
   margin-bottom: 15px;
 }
-.license .cta-container .icon-holder .fa {
+.credits .cta-container .icon-holder .fa {
   font-size: 56px;
 }
-.license .cta-container .intro {
+.credits .cta-container .intro {
   margin-bottom: 30px;
 }
 /* ======= Contact Section ======= */
