@@ -1,4 +1,4 @@
-    <!-- ******FEATURES****** --> 
+    <!-- ******FEATURES****** -->
     <section id="interests" class="interests section">
         <div class="container text-center">
             <h2 class="title">My interests</h2>
@@ -16,4 +16,4 @@
                 <li><i class="fa fa-check"></i> I love reading</li>
             </ul>
         </div><!--//container-->
-    </section><!--//features-->
+    </section><!--//interests-->
