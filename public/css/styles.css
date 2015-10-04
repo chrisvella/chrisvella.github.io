@@ -342,7 +342,7 @@ pre code {
   margin-bottom: 60px;
   color: #074f66;
 }
-.credits .license-inner {
+.credits .credits-inner {
   max-width: 800px;
   background: #fff;
   padding: 30px;
@@ -356,11 +356,11 @@ pre code {
   background-clip: padding-box;
   margin: 0 auto;
 }
-.license .info {
+.credits .info {
   max-width: 760px;
   margin: 0 auto;
 }
-.license .cta-container {
+.credits .cta-container {
   max-width: 540px;
   margin: 0 auto;
   margin-top: 60px;
@@ -388,7 +388,7 @@ pre code {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
 }
-.license .cta-container .speech-bubble:after {
+.credits .cta-container .speech-bubble:after {
   position: absolute;
   left: 50%;
   bottom: -10px;
