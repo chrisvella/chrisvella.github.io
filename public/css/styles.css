@@ -246,6 +246,10 @@ pre code {
   margin: 0 auto;
   margin-bottom: 60px;
 }
+.image-center {
+  width: 940px;
+  .center-block();
+}
 .about .item {
   position: relative;
   margin-bottom: 30px;
